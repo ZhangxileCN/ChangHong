@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ECs>
+    <EC value="7030">
+        <property name="desc" value="Input Voltage"/>
+        <property name="lLimit" value="0"/>
+        <property name="uLimit" value="5"/>
+        <property name="unit" value="V"/>
+    </EC>    
+    <EC value="7040">
+        <property name="desc" value="CheckTOCConsistency"/>
+        <property name="lLimit" value="-1"/>
+        <property name="uLimit" value="-1"/>
+        <property name="unit" value="1"/>
+    </EC>    
+    <EC value="7050">
+        <property name="desc" value="GTIN compare"/>
+        <property name="lLimit" value="0"/>
+        <property name="uLimit" value="0"/>
+        <property name="unit" value="1"/>
+    </EC>  
+	<EC value="7060">
+        <property name="desc" value="setPWD"/>
+        <property name="lLimit" value="0"/>
+        <property name="uLimit" value="0"/>
+        <property name="unit" value="1"/>
+    </EC>
+    <EC value="7090">
+        <property name="desc" value="CheckAndResetStusRegister"/>
+        <property name="lLimit" value="1"/>
+        <property name="uLimit" value="1"/>
+        <property name="unit" value="1"/>
+    </EC>
+</ECs>

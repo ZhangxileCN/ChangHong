@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe.config
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.pdb
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.MainForm.resources
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.CopyComplete
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.exe
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.pdb
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\vs_workspace\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe.config
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.pdb
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.MainForm.resources
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.exe
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.pdb
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe.config
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.exe
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.pdb
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.MainForm.resources
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.Properties.Resources.resources
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.GenerateResource.Cache
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.pdb
+C:\Users\Administrator\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.AssemblyReference.cache
+Z:\Test Program Source V4.0 KKD\FCT\NFC\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csprojResolveAssemblyReference.cache
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe.config
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.exe
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\bin\Debug\NFC_Test_Sys_K10.pdb
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.MainForm.resources
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.Properties.Resources.resources
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.GenerateResource.cache
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.CoreCompileInputs.cache
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csproj.CopyComplete
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.exe
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.pdb
+C:\Users\80968\Desktop\NFC_Test_Sys_K10\NFC_Test_Sys_K10\NFC_Test_Sys_K10\obj\Debug\NFC_Test_Sys_K10.csprojAssemblyReference.cache

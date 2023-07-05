@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ECs>
+    <EC name="3330">
+        <property name="desc" value="Input Voltage"/>
+        <property name="lLimit" value="0"/>
+        <property name="uLimit" value="5"/>
+        <property name="unit" value="V"/>
+    </EC>    
+    <EC name="3350">
+        <property name="desc" value="NFC Tag access"/>
+        <property name="lLimit" value="0"/>
+        <property name="uLimit" value="0"/>
+        <property name="unit" value="1"/>
+    </EC>
+    <EC name="3351">
+        <property name="desc" value="CheckTOCConsistency"/>
+        <property name="lLimit" value="-1"/>
+        <property name="uLimit" value="-1"/>
+        <property name="unit" value="1"/>
+    </EC>    
+
+</ECs>

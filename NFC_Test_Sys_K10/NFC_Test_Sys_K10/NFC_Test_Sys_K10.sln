@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFC_Test_Sys_K10", "NFC_Test_Sys_K10\NFC_Test_Sys_K10.csproj", "{EE2587AC-98ED-43C8-99CF-AD3249424456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2587AC-98ED-43C8-99CF-AD3249424456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2587AC-98ED-43C8-99CF-AD3249424456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2587AC-98ED-43C8-99CF-AD3249424456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2587AC-98ED-43C8-99CF-AD3249424456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3E59B9-B3CC-425E-99F7-CCA24BFCD0B0}
+	EndGlobalSection
+EndGlobal
