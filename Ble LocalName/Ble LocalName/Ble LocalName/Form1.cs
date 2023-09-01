@@ -58,31 +58,32 @@ namespace Ble_LocalName
 
         private void 搜索蓝牙(object sender, EventArgs e)
         {
-
-            int higher1 = -100;
-            int _pt = (int)numericEdit1.Value;
             listView1.Items.Clear();
-            Thread.Sleep(50);
+            listView1.Refresh();
             listView2.Items.Clear();
+            listView2.Refresh();
+            int higher1 = (int)numericUpDown3.Value;
+            int _pt = (int)numericUpDown1.Value;
             Thread.Sleep(50);
+
 
             //if (listView1.Items.Count > 0)
             //    listView1.Items.RemoveAt(0);
 
             //根据蓝牙发射器串口端口设定
             BleManager.Instance.ComPort = "com3";
-            Thread.Sleep(500);
+            Thread.Sleep(50);
             BleManager.Instance.StartDiscovery();
             Thread.Sleep(5 * 1000);
             BleManager.Instance.StopDiscovery();
 
-            Thread.Sleep(500);
+            Thread.Sleep(50);
             Queue<BtDiscoveryEventPacket> queue = BleManager.Instance.DiscoveryPacketQueue;
             foreach (BtDiscoveryEventPacket bt in queue)
             {
                 string payload = null;
                 //string payloadascii = null;
-                if ((bt.Rssi >= -50 && bt.Rssi <= -20) && bt.PacketType == _pt)
+                if ((bt.Rssi >= numericUpDown3.Value && bt.Rssi <= numericUpDown2.Value) && bt.PacketType == _pt)
                 {
 
                     //higher = bt.Rssi;
@@ -110,13 +111,15 @@ namespace Ble_LocalName
                     string[] textdata = { bt.PacketType.ToString(), bt.Address.ToString(), (bt.Address.ToString().Length - 11).ToString(), bt.Rssi.ToString(), bt.Data.ToString(), payload };
                     ListViewItem item1 = new ListViewItem(textdata);
                     listView1.Items.Add(item1);
+                    listView1.Refresh();
 
-                    if (bt.Rssi > higher1)
+                    if (bt.Rssi >= higher1)
                     {
                         string[] textdata1 = { bt.PacketType.ToString(), bt.Address.ToString(), (bt.Address.ToString().Length - 11).ToString(), bt.Rssi.ToString(), bt.Data.ToString(), payload };
                         ListViewItem item2 = new ListViewItem(textdata1);
-                        listView2.Items.Clear();
+                        listView2.Items.Clear();                        
                         listView2.Items.Add(item2);
+                        listView2.Refresh();
                         higher1 = bt.Rssi;
                     }
 
@@ -124,16 +127,16 @@ namespace Ble_LocalName
 
             }
             if (IsColumnEmpty(listView1, 0))
-                MessageBox.Show("未能找到WireLess BT", "提示");
+                MessageBox.Show("未能找到BT", "提示");
 
         }
 
         private void 清除(object sender, EventArgs e)
         {
             listView1.Items.Clear();
-            Thread.Sleep(50);
+            listView1.Refresh();
             listView2.Items.Clear();
-            Thread.Sleep(50);
+            listView2.Refresh();
         }
     }
 }

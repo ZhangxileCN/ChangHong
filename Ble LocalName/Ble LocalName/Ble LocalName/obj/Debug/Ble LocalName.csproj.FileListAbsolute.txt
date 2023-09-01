@@ -20,4 +20,3 @@ C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\D
 C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.CopyComplete
 C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.exe
 C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.pdb
-C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csprojAssemblyReference.cache

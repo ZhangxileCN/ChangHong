@@ -34,9 +34,15 @@
             this.listView2 = new System.Windows.Forms.ListView();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.numericEdit1 = new NationalInstruments.UI.WindowsForms.NumericEdit();
             this.button2 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.numericEdit1)).BeginInit();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown3 = new System.Windows.Forms.NumericUpDown();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -52,7 +58,7 @@
             // listView1
             // 
             this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(23, 118);
+            this.listView1.Location = new System.Drawing.Point(23, 259);
             this.listView1.Name = "listView1";
             this.listView1.Size = new System.Drawing.Size(1840, 250);
             this.listView1.TabIndex = 1;
@@ -62,7 +68,7 @@
             // listView2
             // 
             this.listView2.HideSelection = false;
-            this.listView2.Location = new System.Drawing.Point(23, 428);
+            this.listView2.Location = new System.Drawing.Point(23, 591);
             this.listView2.Name = "listView2";
             this.listView2.Size = new System.Drawing.Size(1840, 250);
             this.listView2.TabIndex = 2;
@@ -81,18 +87,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(39, 389);
+            this.label2.Location = new System.Drawing.Point(39, 546);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(152, 27);
             this.label2.TabIndex = 4;
             this.label2.Text = "Get higher";
-            // 
-            // numericEdit1
-            // 
-            this.numericEdit1.Location = new System.Drawing.Point(365, 68);
-            this.numericEdit1.Name = "numericEdit1";
-            this.numericEdit1.Size = new System.Drawing.Size(120, 38);
-            this.numericEdit1.TabIndex = 5;
             // 
             // button2
             // 
@@ -104,14 +103,77 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.清除);
             // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.Location = new System.Drawing.Point(365, 68);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(120, 38);
+            this.numericUpDown1.TabIndex = 9;
+            // 
+            // numericUpDown2
+            // 
+            this.numericUpDown2.Location = new System.Drawing.Point(365, 136);
+            this.numericUpDown2.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.numericUpDown2.Minimum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            -2147483648});
+            this.numericUpDown2.Name = "numericUpDown2";
+            this.numericUpDown2.Size = new System.Drawing.Size(120, 38);
+            this.numericUpDown2.TabIndex = 10;
+            // 
+            // numericUpDown3
+            // 
+            this.numericUpDown3.Location = new System.Drawing.Point(365, 205);
+            this.numericUpDown3.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.numericUpDown3.Minimum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            -2147483648});
+            this.numericUpDown3.Name = "numericUpDown3";
+            this.numericUpDown3.Size = new System.Drawing.Size(120, 38);
+            this.numericUpDown3.TabIndex = 11;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(39, 207);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(124, 27);
+            this.label3.TabIndex = 12;
+            this.label3.Text = "Rssi Min";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(39, 138);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(124, 27);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Rssi Max";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 27F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1892, 1001);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.numericUpDown3);
+            this.Controls.Add(this.numericUpDown2);
+            this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.numericEdit1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.listView2);
@@ -120,7 +182,9 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.numericEdit1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -133,8 +197,12 @@
         private System.Windows.Forms.ListView listView2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private NationalInstruments.UI.WindowsForms.NumericEdit numericEdit1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.NumericUpDown numericUpDown2;
+        private System.Windows.Forms.NumericUpDown numericUpDown3;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
