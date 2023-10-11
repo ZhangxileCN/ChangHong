@@ -1,0 +1,43 @@
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\Ble LocalName.exe.config
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\Ble LocalName.exe
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\Ble LocalName.pdb
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\BleExp3Lib.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.Common.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.WindowsForms.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\SunnyUI.Common.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\SunnyUI.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\BleExp3Lib.pdb
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.Common.xml
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.xml
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.WindowsForms.xml
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble_LocalName.Form1.resources
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble_LocalName.Properties.Resources.resources
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.GenerateResource.cache
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.exe.licenses
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.CoreCompileInputs.cache
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.CopyComplete
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.exe
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.pdb
+C:\Users\80968\Desktop\My Csharp\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csprojAssemblyReference.cache
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\Ble LocalName.exe.config
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\Ble LocalName.exe
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\Ble LocalName.pdb
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.Common.dll
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.dll
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.WindowsForms.dll
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\SunnyUI.Common.dll
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\SunnyUI.dll
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.Common.xml
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.xml
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\bin\Debug\NationalInstruments.UI.WindowsForms.xml
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble_LocalName.Form1.resources
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble_LocalName.Properties.Resources.resources
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.GenerateResource.cache
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.exe.licenses
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.CoreCompileInputs.cache
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.csproj.CopyComplete
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.exe
+C:\Users\80968\Desktop\My Csharp\My program\Ble LocalName\Ble LocalName\Ble LocalName\obj\Debug\Ble LocalName.pdb
